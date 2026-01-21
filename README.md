@@ -128,7 +128,9 @@ You will also create multiple local repositories on your computer to simulate wo
 
 14. Modify `index.html`. Replace `Class 02 Exercise 2` with `Class 03`
 
-15. Push your local commit to remote repository
+15. Commit with the message `Update index.html to class03`
+
+16. Push your local commit to remote repository
     ```bash
     $ git push -u origin class03
     ```
